@@ -18,7 +18,7 @@ export default function Weather(props) {
         });
     }
 
-    if (weatherData. ready) {
+    if (weatherData.ready) {
         return ( 
             <div className="Weather">
                 <form>
