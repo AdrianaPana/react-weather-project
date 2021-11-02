@@ -16,7 +16,7 @@ export default function App() {
       </footer>
       </div>
       </div>
-      <img src="/Sun_Outline.png"/>
+      <img src="/Sun_Outline.png" alt="Sun icon"/>
     </div>
   );
 }
