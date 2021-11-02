@@ -1,9 +1,24 @@
-.App {
+.App .ct {
   max-width: 600px;
   margin: 30px auto;
+  margin-bottom: 0;
+  color: #9c19e0;
+  background-color: rgba(255, 192, 203, 0.5);
+  border-radius: 20px;
+}
+
+.App img {
+  max-width: 200px;
+  display: block;
+  margin: 0 auto;
 }
 
 .App footer {
-  font-size: 11px;
+  text-align: center;
+  font-size: 12px;
   margin: 10px 0;
+}
+
+.App a {
+  text-decoration: none;
 }
